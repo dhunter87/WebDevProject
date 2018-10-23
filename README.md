@@ -1,4 +1,4 @@
 # WebDevProject
-introduction of js into my web pages
+introduction of javascript into my web pages
 
-simple website showing how js is used to interact with websitess
+simple website showing how javascript is used to interact with websitess
